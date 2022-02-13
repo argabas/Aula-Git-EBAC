@@ -1,9 +1,9 @@
 Dados do aluno
 
--Primeiro Nome: Alexandre
--Profissão: Consultor de implantação
--Cidade: Araçatuba/SP
--O que faz nas horas vaga: Vídeo game, filmes, séries e leitura
+-Primeiro Nome: Alexandre.
+-Profissão: Consultor de implantação.
+-Cidade: Araçatuba/SP.
+-O que faz nas horas vaga: Vídeo game, filmes, séries e leitura.
 -Feedback sobre o curso Qualidade de Software: Tenho aprendido bastante usando ferramentas que desconhecia.
 -Feedback sobre a plataforma de estudo da EBAC: Bem intuitiva e fácil de usar.
 
